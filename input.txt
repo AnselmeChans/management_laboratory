@@ -1,0 +1,9 @@
+name|office|numberPhone|status|arrivalDate|arrivalDate
+Hans|B2|083989131|Etudiant|92|923883232
+bibi|B2|9090932323|Chercheur|67/92/22|23/56/78
+Lyly|C19|1234567|techncien|09/82/22|12/67/09
+anselme|IU45|274258193|Sans emploie|09/12/22|67/87/45|
+geordu|NH4|0839000031|ingénieur|92/83/76|923883232
+olae|GY4|1111932323|etudiant|67/78/22|09/56/78
+amster|C19|1234590|techncien|09/82/12|12/67/43
+anselme|IU45|274258193|Sans emploie|09/12/22|67/87/45|
